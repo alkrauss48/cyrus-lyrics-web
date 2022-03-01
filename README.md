@@ -1,5 +1,12 @@
 # cyrus-lyrics-web
 
+## Running in Docker
+```
+docker-compose up
+```
+
+Or, you can run it manually:
+
 ## Project setup
 ```
 npm install
