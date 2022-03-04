@@ -12,7 +12,7 @@
       </a>
     </div>
     <p>
-      CyrusLyrics is an iOS app to help you quickly store, find, and add the
+      CyrusLyrics is an Android app to help you quickly store, find, and add the
       lyrics of songs that you like to sing.
     </p>
     <p>Watch the following YouTube video to learn about how to use the app.</p>
