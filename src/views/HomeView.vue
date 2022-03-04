@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img class="logo" alt="CyrusLyrics logo" src="../assets/logo.jpeg">
-    <h1>Welcome to CyrusLyrics!</h1>
+    <h1>Welcome to A Cool Upcoming App!</h1>
     <div>
       <a class="app-store-link" href="#">
         <img
