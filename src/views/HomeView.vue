@@ -3,7 +3,11 @@
     <img class="logo" alt="CyrusLyrics logo" src="../assets/logo.jpeg">
     <h1>Welcome to CyrusLyrics!</h1>
     <div>
-      <a class="app-store-link" href="#">
+      <a
+        class="app-store-link"
+        target="_blank"
+        href="https://testflight.apple.com/join/zNuXIF3a"
+      >
         <img
           class="app-store-image"
           alt="Download CyrusLyrics on the App Store"

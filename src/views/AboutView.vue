@@ -26,7 +26,11 @@
     to some of your favorite songs. Whatever the reason is for you, I hope you
     enjoy CyrusLyrics</p>
     <div>
-      <a class="app-store-link" href="#">
+      <a
+        class="app-store-link"
+        target="_blank"
+        href="https://testflight.apple.com/join/zNuXIF3a"
+      >
         <img
           class="app-store-image"
           alt="Download CyrusLyrics on the App Store"
