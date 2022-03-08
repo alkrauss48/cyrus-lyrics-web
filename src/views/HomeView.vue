@@ -20,7 +20,7 @@
       <iframe
         width="560"
         height="820"
-        src="https://www.youtube.com/embed/ZaB_387BjpE"
+        src="https://www.youtube.com/embed/videoseries?list=PLWXp2X5PBDOmFd1kqyYsPtYwdgXIfDZT3"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
