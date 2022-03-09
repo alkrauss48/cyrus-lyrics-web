@@ -1,7 +1,10 @@
 <template>
   <div class="about">
     <h1>About CyrusLyrics</h1>
-    <p>Hi, I'm Aaron - Cyrus' dad, and the developer of CyrusLyrics.</p>
+    <p>Hi, I'm
+      <a href="https://thecodeboss.dev" target="_blank">Aaron</a>
+      - Cyrus' dad, and the developer of CyrusLyrics.
+    </p>
     <p>Even since before Cyrus was born, I loved singing to him, and once he hit
     about 2-4 months old, he really responded to that kind of interaction. But I
     noticed that I regularly couldn't think of a big variety of songs to sing to
@@ -45,5 +48,17 @@
   max-width: 60em;
   margin: 0 auto;
   text-align: left;
+
+  p {
+    a {
+      text-decoration: none;
+      font-weight: bold;
+      color: #31a1fd;
+
+      &:hover, &:focus {
+        color: #2c3e50;
+      }
+    }
+  }
 }
 </style>
