@@ -6,7 +6,7 @@
       <a
         class="app-store-link"
         target="_blank"
-        href="https://testflight.apple.com/join/zNuXIF3a"
+        href="https://apps.apple.com/us/app/cyruslyrics/id1613010334"
       >
         <img
           class="app-store-image"
